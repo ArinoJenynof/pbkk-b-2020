@@ -1,0 +1,26 @@
+{
+  "name": "pbkk-biodata",
+  "version": "0.0.1",
+  "description": "pbkk-biodata",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArinoJenynof/pbkk-biografi.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Arino Jenynof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArinoJenynof/pbkk-biografi/issues"
+  },
+  "homepage": "https://github.com/ArinoJenynof/pbkk-biografi#readme"
+}
